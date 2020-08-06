@@ -1,0 +1,2 @@
+# Exchange-Rate-Prediction
+This project dealt with predicting the actual values of weekly average exchange rates for the USD/TRL currency pair, using the weekly averages of various fundamental macro-economic variables. Various machine learning models, including multiple linear regression and support vector regression, were utilised in the process. This kind of work has important applications in forex trading. 
